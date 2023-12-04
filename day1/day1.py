@@ -4,7 +4,7 @@ with open('input.txt') as file:
 
 total_value = 0
 
-###################### part 1 #########################
+# part 1
 
 # for line in lines:
 #     calibration_value = ''
@@ -20,7 +20,7 @@ total_value = 0
 # print(total_value)
 
 
-###################### part 2 #########################
+# part 2
 
 spelled_numbers = ['one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine']
 
