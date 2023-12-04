@@ -1,6 +1,8 @@
 # Advent-Of-Code-2023
-- Day 1-3: Not imported
-- Day 4: 
+- Day 1: Python - Complete - Not imported
+- Day 2: Python - Complete - Not imported
+- Day 3: Python - Complete - Not imported
+- Day 4: Python - Complete
 - Day 5:
 - Day 6:
 - Day 7:
