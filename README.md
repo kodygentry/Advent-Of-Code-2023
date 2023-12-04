@@ -1,5 +1,6 @@
 # Advent-Of-Code-2023
-## woohooo 2023 - challenging myself to doing this in 8 different languages
+## woohooo 2023!!!
+### challenging myself to doing this in 8 different languages
 
 | Day   | Language     | Status         |
 |-------|--------------|----------------|
@@ -27,4 +28,4 @@
 | Day 22| Javascript   | Not Started 🚩 |
 | Day 23| Javascript   | Not Started 🚩 |
 | Day 24| Javascript   | Not Started 🚩 |
-| Day 24| Assembly     | Not Started 🚩 | hahaha
+| Day 24| Assembly     | Not Started 🚩 | hahaha |
