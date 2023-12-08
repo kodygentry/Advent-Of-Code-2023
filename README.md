@@ -7,9 +7,9 @@
 | Day 2 | Python       | Complete ✅    |
 | Day 3 | Python       | Complete ✅    |
 | Day 4 | Python       | Complete ✅    |
-| Day 5 | C++          | Complete ✅ |
-| Day 6 | C++          | Not Started 🚩 |
-| Day 7 | C++          | Not Started 🚩 |
+| Day 5 | C++          | Complete ✅    |
+| Day 6 | C++          | Complete ✅    |
+| Day 7 | C++          | Complete ✅    |
 | Day 8 | C++          | Not Started 🚩 |
 | Day 9 | Java         | Not Started 🚩 |
 | Day 10| Java         | Not Started 🚩 |
