@@ -11,12 +11,12 @@
 | Day 6 | C++          | Complete ✅    |
 | Day 7 | C++          | Complete ✅    |
 | Day 8 | C++          | Complete ✅ |
-| Day 9 | Java         | Not Started 🚩 |
-| Day 10| Java         | Not Started 🚩 |
-| Day 11| Java         | Not Started 🚩 |
-| Day 12| Java         | Not Started 🚩 |
-| Day 13| Ruby         | Not Started 🚩 |
-| Day 14| Ruby         | Not Started 🚩 |
+| Day 9 | Java         | Complete ✅ |
+| Day 10| Java         | Complete ✅ |
+| Day 11| Java         | Complete ✅ |
+| Day 12| Java         | Complete ✅ |
+| Day 13| Ruby         | Complete ✅ |
+| Day 14| Ruby         | Complete ✅ |
 | Day 15| Ruby         | Not Started 🚩 |
 | Day 16| Ruby         | Not Started 🚩 |
 | Day 17| Go           | Not Started 🚩 |
