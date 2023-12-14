@@ -10,7 +10,7 @@
 | Day 5 | C++          | Complete ✅    |
 | Day 6 | C++          | Complete ✅    |
 | Day 7 | C++          | Complete ✅    |
-| Day 8 | C++          | Not Started 🚩 |
+| Day 8 | C++          | Complete ✅ |
 | Day 9 | Java         | Not Started 🚩 |
 | Day 10| Java         | Not Started 🚩 |
 | Day 11| Java         | Not Started 🚩 |
